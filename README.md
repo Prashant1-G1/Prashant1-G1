@@ -65,8 +65,8 @@ that demonstrate problem-solving ability and technical depth.
 <h3 align="left">GitHub Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prashant1-G1&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api?username=Prashant1-G1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prashant1-G1&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant1-G1&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
