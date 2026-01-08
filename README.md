@@ -8,9 +8,7 @@
   />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=0d1117&style=flat" />
-</p>
+>
 
 ---
 
