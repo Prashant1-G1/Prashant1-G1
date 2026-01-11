@@ -67,8 +67,8 @@ that demonstrate problem-solving ability and technical depth.
     src="https://streak-stats.demolab.com?user=Prashant1-G1&theme=tokyonight&hide_border=true"
     height="165"
 </p>
+  
 ---
-
 <!-- ===================== CONTACT ===================== -->
 <h3 align="left">Contact & Socials</h3>
 
