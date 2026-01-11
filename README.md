@@ -60,15 +60,18 @@ that demonstrate problem-solving ability and technical depth.
 </p>
 
 ---
+<h3 align="left">GitHub Activity</h3>
 
-<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prashant1-G1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Prashant1-G1&theme=tokyonight&hide_border=true" height="165"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Prashant1-G1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="165"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=Prashant1-G1&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prashant1-G1&theme=tokyo-night&hide_border=true"/>
 
 ---
 
