@@ -1,4 +1,4 @@
-<!-- ===================== RECRUITER HEADER ===================== -->
+
 <h1 align="center">Hi, I'm Prashant Bhattarai</h1>
 
 <p align="center">
